@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="textbox1">Enter your email address:</string>
+    <string name="edittext1">Type Email Here</string>
+    <string name="textbox2">Type your password:</string>
+    <string name="ButtonText">Login</string>
+    <string name="profile">Your profile</string>
+    <string name="nm">Enter Your Name:</string>
+    <string name="yn">Your Name:</string>
+    <string name="email">Enter Your email:</string>
+    <string name="picture">Your Picture:</string>
+    <string name="msg">Click the above button to take picture</string>
+    <string name="cht">Go To Chat</string>
+    <string name="send">send</string>
+    <string name="receive">receive</string>
+    <string name="type">Type Here</string>
+    <string name="open" />
+    <string name="close" />
+</resources>
